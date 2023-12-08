@@ -12,7 +12,7 @@ const config: DocsThemeConfig = {
         <circle cx="166" cy="120" r="40" fill="currentColor"/>
       </svg>
       <span style={{ marginLeft: '.4em', fontWeight: 800 }}>
-        Prompt Engineering Guide
+        FRONTIER 
       </span>
     </>
   ),
@@ -34,13 +34,13 @@ const config: DocsThemeConfig = {
     const { title } = useConfig()
     return (
     <>
-      <title>{title ? title + ' | Prompt Engineering Guide': 'Prompt Engineering Guide'} </title>
+      <title>{title ? title + ' | Frontiers of Hair Loss': 'Frontiers of Hair Loss'} </title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <meta property="og:title" content="Prompt Engineering Guide" />
-      <meta property="og:description" content="A Comprehensive Overview of Prompt Engineering" />
+      <meta property="og:title" content="Frontiers of Hair Loss" />
+      <meta property="og:description" content="Frontiers of Hair Loss" />
       <meta
           name="og:title"
-          content={title ? title + ' | Prompt Engineering Guide' : 'Prompt Engineering Guide'}
+          content={title ? title + ' | Frontiers of Hair Loss' : 'Frontiers of Hair Loss'}
         />
       <link rel="icon" href="/144-favicon.svg" type="image/svg+xml" />
 
