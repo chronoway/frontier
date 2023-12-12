@@ -60,7 +60,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/dair-ai/Prompt-Engineering-Guide/tree/main/',
   footer: {
-    text: 'Copyright © 2023 DAIR.AI',
+    text: 'Copyright © 2020 PHYTOWAY',
   },
   search: {
     placeholder: 'Search...',
