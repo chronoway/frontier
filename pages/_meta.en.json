@@ -1,8 +1,5 @@
 {
-  "index": "FRONTIER 선서",
-  "m01": "왕자의 머리카락",
-  "m02": "팩트 펀치",
-  "m03": "진실 탐구",
+  "m01": "HOME",
   "course":{
     "title": "Prompt Engineering Course",
     "type": "page"
