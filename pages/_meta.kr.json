@@ -1,15 +1,8 @@
 {
-  "index": "Prompt Engineering",
-  "introduction": "Introduction",
-  "techniques": "Techniques",
-  "applications": "Applications",
-  "models": "Models",
-  "risks": "Risks & Misuses",
-  "papers": "Papers",
-  "tools": "Tools",
-  "notebooks": "Notebooks",
-  "datasets": "Datasets",
-  "readings": "Additional Readings",
+  "m01": "HOME",
+  "m02":"왕좌의 머리카락",
+  "m03":"팩트 펀치",
+  "m04":"진실 탐구",
   "course":{
     "title": "Prompt Engineering Course",
     "type": "page"
