@@ -1,12 +1,6 @@
----
+# Home
 
-
----
-
-<h1 id="home">Home</h1>
-<p>이것은 테스트입니다.</p>
-<p>리키1…</p>
-
+이것은 리키가 작성한 겁니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODU4MDE5Nl19
+eyJoaXN0b3J5IjpbMjEwMjQ1MjY4OCwxNDk4NTgwMTk2XX0=
 -->
