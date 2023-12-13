@@ -1,15 +1,6 @@
 {
-  "m01": "HOME",
-  "course":{
-    "title": "Prompt Engineering Course",
-    "type": "page"
-  },
-  "services": {
-    "title": "Services",
-    "type": "page"
-  },
-  "about": {
-    "title": "About",
-    "type": "page"
-  }
+  "index":"HOME",
+  "m02":"King's Hair",
+  "m03":"Fact Punch",
+  "m04":"Truth Explore"
 }

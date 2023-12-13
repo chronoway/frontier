@@ -1,19 +1,6 @@
 {
-  "index":"HOME",  
-  "m01": "HOME",
+  "index":"HOME",
   "m02":"왕좌의 머리카락",
   "m03":"팩트 펀치",
-  "m04":"진실 탐구",
-  "course":{
-    "title": "Prompt Engineering Course",
-    "type": "page"
-  },
-  "services": {
-    "title": "Services",
-    "type": "page"
-  },
-  "about": {
-    "title": "About",
-    "type": "page"
-  }
+  "m04":"진실 탐구"
 }
