@@ -5,7 +5,8 @@
 
 2. 우리는 근본적인 해결책과 따뜻한 이야기를 통해 사람들이 자신감과 존엄성을 되찾을 수 있게 돕습니다.
 
-3. 우리는 이 성공의 신화를 전세계에 전파하며, 프론티어로써 변화의 새로운 물결을 일으킵니다.
+3. 우리는 이 성공의 신화를 전 세계에 전파하며, 프론티어로써 변화의 새로운 물결을 일으킵니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNDg4Mzk5NSwtMzI1MDk1ODA4XX0=
+eyJoaXN0b3J5IjpbMTQ0MTkwODAzMSwxMjI0ODgzOTk1LC0zMj
+UwOTU4MDhdfQ==
 -->
