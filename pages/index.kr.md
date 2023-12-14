@@ -1,9 +1,8 @@
-# Home
 
-이것은 리키가 작성한 겁니다.
+# FRONTIER 선서
 
-**리키**
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzM0MzQ1NzIsMTU2NzAyNDcwLDIxMD
-I0NTI2ODgsMTQ5ODU4MDE5Nl19
--->
+1. 우리는 "탈모는 해결 불가능한 문제"라는 신화를 깨는데 전념하는 정의로운 선구자입니다.
+
+2. 우리는 근본적인 해결책과 따뜻한 이야기를 통해 사람들이 자신감과 존엄성을 되찾을 수 있게 돕습니다.
+
+3. 우리는 이 성공의 신화를 전세계에 전파하며, 프론티어로써 변화의 새로운 물결을 일으킵니다.
